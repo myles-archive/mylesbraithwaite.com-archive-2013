@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"><![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <!--[if IE ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
+    
+    <title>Why do you have to make everything complicated! - Myles Braithwaite</title>
+    <meta name="author" content="Myles Braithwaite <me@mylesbraithwaite.com>">
+    
+    <meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1;">
+
+    <!-- All the Feeds -->
+    <link rel="alternate" type="application/atom+xml" href="http://mylesbraithwaite.com/feeds/atom.xml" title="All of Myles Braithwaite Posts">
+    <link rel="alternate" type="application/atom+xml" href="http://mylesbraithwaite.com/feeds/journal/atom.xml" title="All of Myles Braithwaite Journal Posts">
+    <link rel="alternate" type="application/atom+xml" href="http://mylesbraithwaite.com/feeds/linked/atom.xml" title="All of Myles Braithwaite Linked Posts">
+    
+    <link rel="archives" href="/archives.html">
+    <link rel="author" href="/about/">
+    <link rel="previous" href="/journal/2007/10/secret-key/" title="Generate a secret key for your Django Application">
+    <link rel="next" href="/journal/2009/04/pygta/" title="Talking about Google App Engine @ PyGTA">
+    
+    <link rel="license" href="/about/license.html">
+    
+    <meta name="generator" content="Jekyll">
+    
+    <link rel="openid.server" href="http://openid.claimid.com/server"> 
+    <link rel="openid.delegate" href="http://openid.claimid.com/myles">
+    
+    <link rel="meta" type="application/rdf+xml" title="FOAF" href="foaf.rdf">
+    
+    <link rel="shortcut icon" href="/media/img/favicon.ico">
+    
+    <!-- Internet Explore 9 Stuff -->
+    <meta name="application-name" content="Myles Braithwaite">
+    <meta name="msapplication-starturl" content="http://mylesbraithwaite.com/">
+    <meta name="msapplication-task" content="name=Home;action-uri=http://mylesbraithwaite.com/">
+    <meta name="msapplication-task" content="name=About;action-uri=http://mylesbraithwaite.com/about/">
+    
+    <!-- iOS Stuff -->
+    <link rel="apple-touch-icon" href="/media/img/apple-touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/media/img/apple-touch-icon-ipad.png">
+    <link rel="apple-touch-icon" size="114x114" href="/media/img/apple-touch-icon-iphone4.png">
+    <link rel="apple-touch-startup-image" href="/media/img/apple-touch-startup.png">
+    
+    <link rel="stylesheet" href="/media/css/style.css?v=20110503">
+    
+    <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
+    <script type="text/javascript" charset="utf-8" src="/media/js/libs/modernizr-1.7.js"></script>
+    
+    <script type="text/javascript" charset="utf-8">
+        var _gaq = _gaq || [];
+        _gaq.push(
+            ['_setAccount', 'UA-1642439-2'],
+            ['_trackPageview']
+        );
+        
+        (function() {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    
+    <meta name="readability-verification" content="V2rs9Pd2K4fFvncqAbjX6yqgtHCgPR7EG2TNb9vK">
+    
+    
+    <link rel="canonical" href="http://mylesbraithwaite.com/journal/2009/03/complicated/">
+</head>
+<body>
+    <div id="container">
+        <header id="top">
+            <h1><a href="/">Myles Braithwaite</a></h1>
+            <nav>
+                <a href="/" title="Home">Home</a>
+                <a href="/archives.html" title="Archive">Archive</a>
+                <a href="/about/" title="About" rel="author">About</a>
+                <a href="/feeds/" title="Subsribe">Subscribe</a>
+            </nav>
+        </header>
+        
+        <div id="main">
+            <article class="post hentry">
+    <header>
+        <h1 class="entry-title">Why do you have to make everything complicated!</h1>
+        <p class="updated" title="2009-03-26T13:00:00-04:00Z">Thursday,&nbsp;26&nbsp;March&nbsp;2009&nbsp;at&nbsp;01:00 PM</p>
+        <p class="byline author vcard">
+            (by&nbsp;<span class="fn"><a href="/about/" rel="author me">Myles&nbsp;Braithwaite</a></span>)
+        </p>
+    </header>
+    
+    <section class="entry-content">
+        <p>Lets say you run a website that allows people to store what they ate for lunch. So you have an input box that asks a simple question, What did you eat today for lunch? Your users enter what they ate for lunch and it post on the website. Simple eh. While your users want to be able to share what they ate for lunch with their friends so you add the ability to do that. Still pretty simple eh. Soon you might add cross tagging and the like to create pretty graphs and statistics to show that one of your users has eaten peanut butter and jelly for the last two years. Still some what simple.</p>
+
+<p>One common thing about the features added above is that they are all back-end features. You don't have to change you design to implement them.</p>
+
+<p>Okay so your little startup has become extremely popular and maybe it just got bought by some large corporation. One of your new co-workers keeps talking about how Ajax and how it is the future of web applications and your small fun application should change to a complex JavaScript version soon.</p>
+
+<p>This is the issue that is facing many simple web applications. Lets take as an example <a href="http://delicious.com/">Delicious</a>. Why do Delicious users use Delicious? To keep a copy of their bookmarks in a central location. Sounds simple enough. Then why do they have to make it so JavaScript intensive. I use to be able to easily load Delicious on any mobile device (Nokia N800, iPhone, etc.) and it would work. But now it is pretty much unnavigable.</p>
+
+<p>This is why I started <a href="http://i-del-icio-us.appspot.com" rel="me">iDelicious</a> a simple bare bones front-end to Delicious. No fancy JavaScript any where (while maybe <a href="http://google.com/analytics">Google Analytics</a>).</p>
+
+    </section>
+    
+    <footer>
+        <p class="tags"><a href="/tags/delicious/" rel="tag" class="tag">Delicious</a>, <a href="/tags/complicated/" rel="tag" class="tag">Complicated</a> and <a href="/tags/user-interface/" rel="tag" class="tag">User Interface</a> </p>
+	<p class="pagination"><a href="/journal/2007/10/secret-key/" title="Generate a secret key for your Django Application" rel="prev">&#x2190;Previous post</a> | <a href="/journal/2009/04/pygta/" title="Talking about Google App Engine @ PyGTA" rel="next">Next post&#x2192;</a></p>
+    </footer>
+</article>
+
+        </div>
+        
+        <footer id="bottom" class=" source-org copyright vcard">
+            <div class="left">
+                <p><strong class="org fn">Myles Braithwaite</strong></p>
+                <p><a href="mailto:&#109;&#101;&#064;&#109;&#121;&#108;&#101;&#115;&#098;&#114;&#097;&#105;&#116;&#104;&#119;&#097;&#105;&#116;&#101;&#046;&#099;&#111;&#109;" title="Email Myles Braithwaite">&#109;&#101;&#064;&#109;&#121;&#108;&#101;&#115;&#098;&#114;&#097;&#105;&#116;&#104;&#119;&#097;&#105;&#116;&#101;&#046;&#099;&#111;&#109;</a></p>
+                <p><a href="http://twitter.com/mylesb" title="Myles Braithwaite's Twitter Profile" rel="external">@mylesb</a></p>
+            </div>
+            
+            <div class="right">
+                <p>Copyright &copy; 2006-2012</p>
+                <p><a rel="license" href="/about/license.html">Creative Commons License</a></p>
+                <p>Powered by <a href="http://jekyllrb.com/" title="Jekyll - Transform your text into a monster." rel="external">Jekyll</a></p>
+            </div>
+        </footer>
+    </div>
+    
+    <script type="text/javascript" charset="utf-8" src="/media/js/libs/jquery-1.4.4.js"></script>
+    <script type="text/javascript" charset="utf-8" src="/media/js/libs/jquery.fancybox-1.3.4.js"></script>
+    <script type="text/javascript" charset="utf-8" src="/media/js/libs/jquery.mousewheel-3.0.4.js"></script>
+    <script type="text/javascript" charset="utf-8" src="/media/js/libs/jquery.easing-1.3.js"></script>
+    <script type="text/javascript" charset="utf-8" src="/media/js/mylesbraithwaite.js"></script>
+</body>
+</html>
