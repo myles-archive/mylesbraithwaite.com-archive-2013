@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"
+	xml:base="http://mylesbraithwaite.com/feeds/journal/atom.xml"
+	
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	xmlns:activity="http://activitystrea.ms/spec/1.0/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:cal="urn:ietf:params:xml:ns:xcal"
+	xmlns:pc="http://portablecontacts.net/schema/1.0"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+
+	<link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+	<title>Myles Braithwaite's Journal Posts</title>
+	<link href="http://mylesbraithwaite.com/feeds/journal/atom.xml" rel="self"/>
+	<link href="http://mylesbraithwaite.com/"/>
+	<updated>2012-01-05T10:06:54-05:00</updated>
+	<id>http://mylesbraithwaite.com/</id>
+	<author>
+		<name>Myles Braithwaite</name>
+		<uri>http://mylesbraithwaite.com/</uri>
+		<email>me@mylesbraithwaite.com</email>
+		<activity:object-type>
+			http://activitystrea.ms/schema/1.0/person
+		</activity:object-type>
+		<pc:name>
+			<pc:givenName>Myles</pc:givenName>
+			<pc:familyName>Braithwaite</pc:familyName>
+		 </pc:name>
+		 <pc:displayName>Myles Braithwaite</pc:displayName>
+		 <pc:preferredUsername>myles</pc:preferredUsername>
+	</author>
+	<icon>http://cdn.mylesbraithwaite.com/media/img/favicon.ico</icon>
+	<logo>http://cdn.mylesbraithwaite.com/media/img/apple-touch-icon-ipad.png</logo>
+	
+	
+<entry>
+	<title>Top 40 Songs of 2011</title>
+	<category term="Music"/><category term="Top of 2011"/>
+	
+		<link href="http://mylesbraithwaite.com/journal/2011/12/top-40-songs-of-2011/?utm_source=site&amp;utm_medium=feed&amp;utm_campaign=journal.xml"/>
+	
+	<updated>2011-12-19T15:24:00-05:00</updated>
+	
+	<id>http://mylesbraithwaite.com/journal/2011/12/top-40-songs-of-2011</id>
+	<content type="html">&lt;p&gt;You can &lt;a href=&quot;http://c.itunes.apple.com/ca/imix/top-40-songs-of-2011/id490710512&quot; rel=&quot;external&quot;&gt;purchase this playlist on iTunes&lt;/a&gt; or &lt;a href=&quot;http://www.rdio.com/people/mylesb/playlists/438355/2011-12-19_Top_40_Songs_of_2011/&quot; rel=&quot;external&quot;&gt;stream it on Rdio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The Answer Was You / &lt;strong&gt;Sloan&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Welcome / &lt;strong&gt;Hey Rosetta!&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Shoot Out Sparks / &lt;strong&gt;The Swallows&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;It / &lt;strong&gt;Rich Aucoin&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Heaven&amp;rsquo;s Just for Moviemakers / &lt;strong&gt;Graham Wright&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Colours / &lt;strong&gt;Grouplove&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Blue Eyes / &lt;strong&gt;Destroyer&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;To Carry Many Small Things / &lt;strong&gt;Mina Tindle&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Let&amp;rsquo;s Win! / &lt;strong&gt;Alexander&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;The Stand / &lt;strong&gt;Mother Mother&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Soviet Race / &lt;strong&gt;Graham Wright&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;If Raymond Carver Were Born In the &amp;rsquo;90s / &lt;strong&gt;Library Voices&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Jimmie&amp;rsquo;s Still Jimmie / &lt;strong&gt;Joel Plaskett&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Reaction / &lt;strong&gt;Acres Of Lions&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Your Daddy Will Do / &lt;strong&gt;Sloan&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Rolling In the Deep / &lt;strong&gt;Adele&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Video Games / &lt;strong&gt;Lana Del Rey&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Mission Bells / &lt;strong&gt;Armistice&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;The Golden Age / &lt;strong&gt;The Asteroids Galaxy Tour&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Nostalgia / &lt;strong&gt;The Burning Hell&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Chapel Song / &lt;strong&gt;We Are Augustines&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Adieu / &lt;strong&gt;Cœur de pirate&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;The Cowboys&amp;rsquo; Christmas Ball / &lt;strong&gt;The Killers&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Green Thumb / &lt;strong&gt;Sunparlour Players&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Bad Ritual / &lt;strong&gt;Timber Timbre&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;What a Little Moonlight Can Do / &lt;strong&gt;Boy and Bean&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Comeback Kid (That&amp;rsquo;s My Dog) / &lt;strong&gt;Brett Dennen&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;The Prime Minister&amp;rsquo;s Daughter / &lt;strong&gt;Library Voices&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Post-War Blues / &lt;strong&gt;Dan Mangan&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Cruel Thing to Do / &lt;strong&gt;Peter Elkas&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Pop Goes the World (Men Without Hats) / &lt;strong&gt;The Burning Hell&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Owen Sound / &lt;strong&gt;Elliott BROOD&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;She&amp;rsquo;s Thunderstorms / &lt;strong&gt;Arctic Monkeys&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Book Club / &lt;strong&gt;Arkells&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Paradise / &lt;strong&gt;Coldplay&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Queen of Hearts / &lt;strong&gt;Fucked Up&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Who Are You? / &lt;strong&gt;Kathryn Calder&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Healthy Hands (Will Mourn You) / &lt;strong&gt;Tasseomancy&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;One for You, One for Me / &lt;strong&gt;Bright Eyes&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Oh Fortune / &lt;strong&gt;Dan Mangan&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	<activity:object-type xmlns="http://activitystrea.ms/spec/1.0/">
+		http://activitystrea.ms/schema/1.0/article
+	</activity:object-type>
+</entry>
+
+<entry>
+	<title>Get an OPML File of All Your Public Twitter Lists</title>
+	<category term="Python"/><category term="Twitter"/><category term="Feed"/>
+	
+		<link href="http://mylesbraithwaite.com/journal/2011/06/get-an-opml-file-of-all-your-public-twitter-lists/?utm_source=site&amp;utm_medium=feed&amp;utm_campaign=journal.xml"/>
+	
+	<updated>2011-06-28T12:31:00-04:00</updated>
+	
+	<id>http://mylesbraithwaite.com/journal/2011/06/get-an-opml-file-of-all-your-public-twitter-lists</id>
+	<content type="html">&lt;p&gt;I made this simple python script today to get an OPML file (to be imported into Google Reader) of all my Twitter lists.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;python&quot;&gt;&lt;span class=&quot;c&quot;&gt;#!/usr/bin/env python&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;__version__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;0.1&amp;#39;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;__project_name__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;TwitterListOPML&amp;#39;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;__project_link__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;https://gist.github.com/1051517&amp;#39;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;TWITTER_LISTS_URL&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;http://api.twitter.com/1/&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%(username)s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;/lists.json&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;TWITTER_LIST_FEED_URL&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;http://api.twitter.com/1/&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%(username)s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;/lists/&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%(list)s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;/statuses.atom&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;TWITTER_LIST_HTML_URL&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;http://twitter.com/&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%(username)s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%(list)s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;OPML_START&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;&amp;quot;&amp;quot;&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot;?&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;&amp;lt;!-- OPML generated by TwitterListOPML --&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;&amp;lt;opml version=&amp;quot;1.1&amp;quot;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;	&amp;lt;head&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;		&amp;lt;title&amp;gt;Twitter Lists&amp;lt;/title&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;	&amp;lt;/head&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;	&amp;lt;body&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;		&amp;lt;outline text=&amp;quot;Twitter Lists&amp;quot; title=&amp;quot;Twitter Lists&amp;quot;&amp;gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;OPML_END&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;&amp;quot;&amp;quot;		&amp;lt;/outline&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;	&amp;lt;/body&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;&amp;lt;/opml&amp;gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;OPML_OUTLINE_FEED&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;&amp;lt;outline text=&amp;quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%(title)s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot; title=&amp;quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%(title)s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot; type=&amp;quot;rss&amp;quot; version=&amp;quot;RSS&amp;quot; htmlUrl=&amp;quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%(html_url)s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot; xmlUrl=&amp;quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%(xml_url)s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot; /&amp;gt;&amp;#39;&lt;/span&gt;
+
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;sys&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;urllib2&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+	&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;json&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;except&lt;/span&gt; &lt;span class=&quot;ne&quot;&gt;ImportError&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+	&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;simplejson&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;json&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;get_lists&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;request&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;urllib2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;add_header&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;User-Agent&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt; +&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+		&lt;span class=&quot;n&quot;&gt;__project_name__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;__version__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;__project_link__&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;opener&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;urllib2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;build_opener&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;opener&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;loads&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;t_lists&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;get_lists&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TWITTER_LISTS_URL&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;username&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+	
+	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;OPML_START&lt;/span&gt;
+	
+	&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;t_list&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;t_lists&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;lists&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]:&lt;/span&gt;
+		&lt;span class=&quot;n&quot;&gt;list_title&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;t_list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;name&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+		&lt;span class=&quot;n&quot;&gt;list_html_url&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TWITTER_LIST_HTML_URL&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;username&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;list&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;t_list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;slug&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]}&lt;/span&gt;
+		&lt;span class=&quot;n&quot;&gt;list_xml_url&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TWITTER_LIST_FEED_URL&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;username&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;list&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;t_list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;slug&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]}&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;OPML_OUTLINE_FEED&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;title&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;list_title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;html_url&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;list_html_url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;xml_url&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;list_xml_url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+	
+	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;OPML_END&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;__name__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;__main__&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;username&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sys&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;argv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Download: &lt;a href=&quot;http://cdn.mylesbraithwaite.com/media/uploads/journal/2011-06-28-get-an-opml-file-of-all-your-public-twitter-lists/twitter_list_to_opml.py.gz&quot; rel=&quot;external&quot;&gt;twitter_list_to_opml.py.gz&lt;/a&gt;&lt;/p&gt;
+</content>
+	<activity:object-type xmlns="http://activitystrea.ms/spec/1.0/">
+		http://activitystrea.ms/schema/1.0/article
+	</activity:object-type>
+</entry>
+
+<entry>
+	<title>Sympatico Legacy SMTP Server</title>
+	<category term="Sympatico"/><category term="SMTP"/><category term="Email"/>
+	
+		<link href="http://mylesbraithwaite.com/journal/2011/06/bell-legacy-smtp/?utm_source=site&amp;utm_medium=feed&amp;utm_campaign=journal.xml"/>
+	
+	<updated>2011-06-10T13:38:00-04:00</updated>
+	
+	<id>http://mylesbraithwaite.com/journal/2011/06/bell-legacy-smtp</id>
+	<content type="html">&lt;p&gt;One of the large issues when trying to configure people&amp;rsquo;s email usually comes to sending messages. If you/they are using Bell Internet (previously Sympatico) you can use a legacy SMTP server at &lt;code&gt;smtp1.sympatico.ca&lt;/code&gt;. It will only work on Bell&amp;rsquo;s ISP (not include your local Starbucks), so it would not be a good idea to configure it on a laptop. If they are working on a laptop the best idea is to see if their email provider provides an iterative SMTP port. Port numbers &lt;code&gt;587&lt;/code&gt; and &lt;code&gt;2525&lt;/code&gt; have become a somewhat standard alternative for email providers. If that doesn&amp;rsquo;t work, another option would be to use the SSL server which is usually on port &lt;code&gt;465&lt;/code&gt;.&lt;/p&gt;
+</content>
+	<activity:object-type xmlns="http://activitystrea.ms/spec/1.0/">
+		http://activitystrea.ms/schema/1.0/article
+	</activity:object-type>
+</entry>
+
+<entry>
+	<title>Who Apple Copied</title>
+	<category term="Apple"/><category term="Microsoft"/><category term="Dropbox"/><category term="Google"/><category term="RIM"/><category term="Remember the Milk"/><category term="Readablity"/><category term="Instapaper"/><category term="iCloud"/><category term="Mac OS X"/><category term="Mac OS X Lion"/>
+	
+		<link href="http://mylesbraithwaite.com/journal/2011/06/who-apple-copied/?utm_source=site&amp;utm_medium=feed&amp;utm_campaign=journal.xml"/>
+	
+	<updated>2011-06-07T10:32:00-04:00</updated>
+	
+	<id>http://mylesbraithwaite.com/journal/2011/06/who-apple-copied</id>
+	<content type="html">&lt;p&gt;People on Twitter keep posting that Apple essential copied everything from Android in their new iOS 5. While they went further than that:&lt;/p&gt;
+
+&lt;h2 id=&quot;microsoft&quot;&gt;Microsoft&lt;/h2&gt;
+
+&lt;p&gt;Apple&amp;rsquo;s new &lt;a href=&quot;http://www.apple.com/icloud/&quot; rel=&quot;external&quot;&gt;iCloud&lt;/a&gt; (formally MobileMe (formally .Mac (formally iTools))) service copies one of my favourite features of the now dead &lt;a href=&quot;http://en.wikipedia.org/wiki/Microsoft_Kin&quot; rel=&quot;external&quot;&gt;Microsoft Kin&lt;/a&gt; (what Microsoft did after they bought &lt;a href=&quot;http://en.wikipedia.org/wiki/Danger_%28company%29&quot; rel=&quot;external&quot;&gt;Danger&lt;/a&gt; the maker of the popular Hiptop/Sidekick) when you take a picture that picture is automagically uploaded to Apple&amp;rsquo;s iCloud service.&lt;/p&gt;
+
+&lt;h2 id=&quot;dropbox&quot;&gt;Dropbox&lt;/h2&gt;
+
+&lt;p&gt;When editing a document in the iWork suite (Pages, Keynote, and Numbers) your document will be uploaded to their iCloud service to be easily accessed from any of your iDevices. Also AirDrop in Mac OS X Lion is basically a Peer-to-Peer file share that will allow you to share entire folders between multiple computers and users.&lt;/p&gt;
+
+&lt;h2 id=&quot;google&quot;&gt;Google&lt;/h2&gt;
+
+&lt;p&gt;The notification system.&lt;/p&gt;
+
+&lt;h2 id=&quot;rim&quot;&gt;RIM&lt;/h2&gt;
+
+&lt;p&gt;iMessage is a blatant copy of &lt;a href=&quot;http://us.blackberry.com/apps-software/blackberrymessenger/&quot; rel=&quot;external&quot;&gt;BlackBerry Messenger&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;remember-the-milk&quot;&gt;Remember the Milk&lt;/h2&gt;
+
+&lt;p&gt;iOS 5 will include a new application called &lt;a href=&quot;http://www.apple.com/ios/ios5/features.html#reminders&quot; rel=&quot;external&quot;&gt;Reminders&lt;/a&gt; for tasks. One cool feature will you will be able to setup a &lt;em&gt;Location Reminder&lt;/em&gt; for when you arrive or leave a location. Apple has never been able to do tasks while, iCal has probably the worst task management of any system ever developed (it&amp;rsquo;s also the worst calendar management system ever developed).&lt;/p&gt;
+
+&lt;h2 id=&quot;readablity-and-instapaper&quot;&gt;Readablity and Instapaper&lt;/h2&gt;
+
+&lt;p&gt;Safari will have a feature called &lt;em&gt;Reading List&lt;/em&gt; where you will be able to save unread Web site that will sync between your iDevices. iOS 5 Safari will also have the same feature as Safari for the Mac where with a click of a button you will get an easier to display version of the website.&lt;/p&gt;
+</content>
+	<activity:object-type xmlns="http://activitystrea.ms/spec/1.0/">
+		http://activitystrea.ms/schema/1.0/article
+	</activity:object-type>
+</entry>
+
+<entry>
+	<title>WWDC 2011 Keynote</title>
+	<category term="Apple"/><category term="WWDC"/><category term="Steve Jobs"/><category term="iOS"/><category term="iPhone"/><category term="iPad"/><category term="Android"/>
+	
+		<link href="http://mylesbraithwaite.com/journal/2011/06/wwdc-2011-keynote/?utm_source=site&amp;utm_medium=feed&amp;utm_campaign=journal.xml"/>
+	
+	<updated>2011-06-06T16:34:00-04:00</updated>
+	
+	<id>http://mylesbraithwaite.com/journal/2011/06/wwdc-2011-keynote</id>
+	<content type="html">&lt;p&gt;If you aren&amp;rsquo;t &lt;a href=&quot;https://twitter.com/mylesb&quot; title=&quot;Follow Myles Braithwaite on Twitter&quot; rel=&quot;external&quot;&gt;following me on Twitter&lt;/a&gt; than you might not know that I -watched- followed (Apple doesn&amp;rsquo;t provider a live stream so you have to follow live blogs) Apple&amp;rsquo;s Developer Conference this afternoon.&lt;/p&gt;
+
+&lt;h2 id=&quot;mac-os-x-lion&quot;&gt;Mac OS X Lion&lt;/h2&gt;
+
+&lt;p&gt;Lion is the seventh iteration of the Mac OS X operating system (which was released on the 24 March, 2001). To say Mac OS X is getting long in the tooth, would be an understatement, especial up against Windows 8&amp;rsquo;s Metro U.I. (Metro is Microsoft answer to WebOS with a card layout system (if you had a beer or coffee with me in the past year or so and we were talking about U.I. design I would have brought up how awesome I think it is)).&lt;/p&gt;
+
+&lt;p&gt;One interesting feature of Lion is the full-screen API. It&amp;rsquo;s nice to see a company finally get that humans can&amp;rsquo;t multitask (no you can&amp;rsquo;t (I know you think you can but you can&amp;rsquo;t (&lt;a href=&quot;http://www.npr.org/templates/story/story.php?storyId=95256794&quot; title=&quot;Think You're Multitasking? Think Again&quot; rel=&quot;external&quot;&gt;it&amp;rsquo;s scientifically proven&lt;/a&gt;))). Right now I am actually writing this journal entry in a full-screen text editor called &lt;a href=&quot;http://www.iawriter.com/mac&quot; rel=&quot;external&quot;&gt;iA Writer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Launchpad and Mission Control look cool but I have to use them to see if they are actually going to be useful.&lt;/p&gt;
+
+&lt;h2 id=&quot;ios-5&quot;&gt;iOS 5&lt;/h2&gt;
+
+&lt;p&gt;Apple has now copied ever great feature from BlackBerry and Android and put them into iOS 5.&lt;/p&gt;
+
+&lt;h3 id=&quot;notifications&quot;&gt;Notifications&lt;/h3&gt;
+
+&lt;p&gt;Notifications were one of the weakest points in iOS. They are similar to Twitter tweets where you will only get information out of them when you are actually looking at your phone. The new notification system is pretty much a clone of Android (they actually got something right the first time).&lt;/p&gt;
+
+&lt;h3 id=&quot;imessage&quot;&gt;iMessage&lt;/h3&gt;
+
+&lt;p&gt;iMessage is a clone of BlackBerry Messenger which is a private, securer, and proprietary chat client. It is heavily used by suites and like Facebook if you aren&amp;rsquo;t on it &lt;strong&gt;you have no social life&lt;/strong&gt; (I am a little bitter about this). I will never use iMessage because out of everyone I know (clients, colleagues, friends, enemies) &lt;strong&gt;I am the only one who uses an iPhone&lt;/strong&gt; (I am also a little bitter about this).&lt;/p&gt;
+
+&lt;h2 id=&quot;icloud&quot;&gt;iCloud&lt;/h2&gt;
+
+&lt;p&gt;Like the idea of a Dropbox clone more integrated to the Operating System but I am a little scared of something I am not playing for.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I will probably buy the upgrade.&lt;/p&gt;
+</content>
+	<activity:object-type xmlns="http://activitystrea.ms/spec/1.0/">
+		http://activitystrea.ms/schema/1.0/article
+	</activity:object-type>
+</entry>
+
+</feed>

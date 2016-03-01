@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"
+	xml:base="http://mylesbraithwaite.com/feeds/linked/atom.xml"
+	
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	xmlns:activity="http://activitystrea.ms/spec/1.0/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:cal="urn:ietf:params:xml:ns:xcal"
+	xmlns:pc="http://portablecontacts.net/schema/1.0"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+
+	<link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+	<title>Myles Braithwaite's Link Posts</title>
+	<link href="http://mylesbraithwaite.com/feeds/linked/atom.xml" rel="self"/>
+	<link href="http://mylesbraithwaite.com/"/>
+	<updated>2012-01-05T10:06:54-05:00</updated>
+	<id>http://mylesbraithwaite.com/</id>
+	<author>
+		<name>Myles Braithwaite</name>
+		<uri>http://mylesbraithwaite.com/</uri>
+		<email>me@mylesbraithwaite.com</email>
+		<activity:object-type>
+			http://activitystrea.ms/schema/1.0/person
+		</activity:object-type>
+		<pc:name>
+			<pc:givenName>Myles</pc:givenName>
+			<pc:familyName>Braithwaite</pc:familyName>
+		 </pc:name>
+		 <pc:displayName>Myles Braithwaite</pc:displayName>
+		 <pc:preferredUsername>myles</pc:preferredUsername>
+	</author>
+	<icon>http://cdn.mylesbraithwaite.com/media/img/favicon.ico</icon>
+	<logo>http://cdn.mylesbraithwaite.com/media/img/apple-touch-icon-ipad.png</logo>
+	
+	
+<entry>
+	<title>The Problem with Patents (Infographic)</title>
+	<activity:object-type xmlns="http://activitystrea.ms/spec/1.0/">
+		http://activitystrea.ms/schema/1.0/bookmark
+	</activity:object-type>
+	<link href="http://frugaldad.com/patents/" rel="alternate" />
+	<link href="http://frugaldad.com/patents/" rel="related" />
+	<updated>2012-01-05T09:34:00-05:00</updated>
+	
+	<id>http://mylesbraithwaite.com/linked/2012/01/patents</id>
+	<category term="Infographic"/><category term="Patents"/><category term="United States of America"/>
+	<content type="html">
+	    &lt;p&gt;Jason from &lt;a href=&quot;http://frugaldad.com/&quot; rel=&quot;external&quot;&gt;Frugal Dad&lt;/a&gt; made this interesting infographic about the United States of America&amp;rsquo;s patent system.&lt;/p&gt;
+
+&lt;div class=&quot;illustration inline&quot;&gt;
+    &lt;a href=&quot;http://cdn.mylesbraithwaite.com/media/uploads/linked/2012-01-05-patents/patents.jpg&quot; title=&quot;The Problem with Patents&quot;&gt;
+	&lt;img src=&quot;http://cdn.mylesbraithwaite.com/media/uploads/linked/2012-01-05-patents/patents-small.jpg&quot; alt=&quot;The Problem with Patents&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+	    &lt;p&gt;&lt;a href=&quot;http://mylesbraithwaite.com/linked/2012/01/patents/?utm_source=site&amp;utm_medium=feed&amp;utm_campaign=linked.xml" title="Myles Braithwaite - The Problem with Patents (Infographic)&quot;&gt;#&lt;/a&gt;&lt;/p&gt;
+	</content>
+</entry>
+
+<entry>
+	<title>U.S. Highways as a Subway Map</title>
+	<activity:object-type xmlns="http://activitystrea.ms/spec/1.0/">
+		http://activitystrea.ms/schema/1.0/bookmark
+	</activity:object-type>
+	<link href="http://www.cambooth.net/archives/801" rel="alternate" />
+	<link href="http://www.cambooth.net/archives/801" rel="related" />
+	<updated>2011-12-20T13:44:00-05:00</updated>
+	
+	<id>http://mylesbraithwaite.com/linked/2011/12/us-highways-as-a-subway-map</id>
+	<category term="Map"/><category term="Design"/>
+	<content type="html">
+	    &lt;div class=&quot;illustration inline&quot;&gt;
+    &lt;a href=&quot;http://cdn.mylesbraithwaite.com/media/uploads/2011-12-20-us-highways-as-a-subway-map/map.jpg&quot; title=&quot;Ringtones Infographic&quot;&gt;
+	&lt;img src=&quot;http://cdn.mylesbraithwaite.com/media/uploads/linked/2011-12-20-us-highways-as-a-subway-map/map-small.jpg&quot; alt=&quot;Ringtones Infographic&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cambooth.net/&quot; rel=&quot;external&quot;&gt;Cameron Booth&lt;/a&gt; made this really cool map of the United States highway system in the style of a traditional subway map.&lt;/p&gt;
+
+	    &lt;p&gt;&lt;a href=&quot;http://mylesbraithwaite.com/linked/2011/12/us-highways-as-a-subway-map/?utm_source=site&amp;utm_medium=feed&amp;utm_campaign=linked.xml" title="Myles Braithwaite - U.S. Highways as a Subway Map&quot;&gt;#&lt;/a&gt;&lt;/p&gt;
+	</content>
+</entry>
+
+<entry>
+	<title>This, Jen, is the Internet</title>
+	<activity:object-type xmlns="http://activitystrea.ms/spec/1.0/">
+		http://activitystrea.ms/schema/1.0/bookmark
+	</activity:object-type>
+	<link href="http://www.youtube.com/watch?v=sDA1HUmuuJo" rel="alternate" />
+	<link href="http://www.youtube.com/watch?v=sDA1HUmuuJo" rel="related" />
+	<updated>2011-12-19T16:35:00-05:00</updated>
+	
+	<id>http://mylesbraithwaite.com/linked/2011/12/this-jen-is-the-internet</id>
+	<category term="Internet"/><category term="The I.T. Crowd"/>
+	<content type="html">
+	    &lt;div class=&quot;illustration inline&quot;&gt;
+	&lt;iframe src=&quot;http://www.youtube.com/embed/sDA1HUmuuJo&quot; frameborder=&quot;0&quot; allowfullscreen width=&quot;500&quot; height=&quot;500&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+	    &lt;p&gt;&lt;a href=&quot;http://mylesbraithwaite.com/linked/2011/12/this-jen-is-the-internet/?utm_source=site&amp;utm_medium=feed&amp;utm_campaign=linked.xml" title="Myles Braithwaite - This, Jen, is the Internet&quot;&gt;#&lt;/a&gt;&lt;/p&gt;
+	</content>
+</entry>
+
+<entry>
+	<title>Ringtones make up 1/3 of the Online Music Industry</title>
+	<activity:object-type xmlns="http://activitystrea.ms/spec/1.0/">
+		http://activitystrea.ms/schema/1.0/bookmark
+	</activity:object-type>
+	<link href="http://mashable.com/2011/12/16/ringtones-decline/" rel="alternate" />
+	<link href="http://mashable.com/2011/12/16/ringtones-decline/" rel="related" />
+	<updated>2011-12-16T13:59:00-05:00</updated>
+	
+	<id>http://mylesbraithwaite.com/linked/2011/12/ringtones</id>
+	<category term="Ringtones"/><category term="Music Industry"/>
+	<content type="html">
+	    &lt;p&gt;&lt;a href=&quot;http://mashable.com/&quot; rel=&quot;external&quot;&gt;Mashable&lt;/a&gt; has an interesting info-graphic about ringtones. This little tidbit surprised me:&lt;/p&gt;
+
+&lt;div class=&quot;illustration inline&quot;&gt;
+    &lt;a href=&quot;http://cdn.mylesbraithwaite.com/media/uploads/2011-12-16-ringtones/ringtones-infographic.jpeg&quot; title=&quot;Ringtones Infographic&quot;&gt;
+	&lt;img src=&quot;http://cdn.mylesbraithwaite.com/media/uploads/linked/2011-12-16-ringtones/ringtones-infographic-small.jpeg&quot; alt=&quot;Ringtones Infographic&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;And over there there&amp;rsquo;s broken bones&lt;br /&gt;
+There&amp;rsquo;s only music, so that there&amp;rsquo;s new ring tones&lt;br /&gt;
+And it don&amp;rsquo;t take no Sherlock Holmes&lt;br /&gt;
+To see it&amp;rsquo;s a little different around here&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;~ &lt;strong&gt;Arctic Monkeys&lt;/strong&gt; / A Certain Romance&lt;/p&gt;
+
+	    &lt;p&gt;&lt;a href=&quot;http://mylesbraithwaite.com/linked/2011/12/ringtones/?utm_source=site&amp;utm_medium=feed&amp;utm_campaign=linked.xml" title="Myles Braithwaite - Ringtones make up 1/3 of the Online Music Industry&quot;&gt;#&lt;/a&gt;&lt;/p&gt;
+	</content>
+</entry>
+
+<entry>
+	<title>Swapping a MacBook for an iPad+VPS</title>
+	<activity:object-type xmlns="http://activitystrea.ms/spec/1.0/">
+		http://activitystrea.ms/schema/1.0/bookmark
+	</activity:object-type>
+	<link href="http://yieldthought.com/post/12239282034/swapped-my-macbook-for-an-ipad" rel="alternate" />
+	<link href="http://yieldthought.com/post/12239282034/swapped-my-macbook-for-an-ipad" rel="related" />
+	<updated>2011-11-03T10:00:00-04:00</updated>
+	
+	<id>http://mylesbraithwaite.com/linked/2011/11/swapping-a-macbook-for-an-ipadvps</id>
+	<category term="iPad"/><category term="MacBook"/><category term="Linode"/>
+	<content type="html">
+	    &lt;p&gt;&lt;a href=&quot;http://yieldthought.com/&quot; title=&quot;Yield Thought&quot; rel=&quot;external&quot;&gt;Mark O’Connor&lt;/a&gt; switched his MacBook for an
+iPad and Linode.&lt;/p&gt;
+
+	    &lt;p&gt;&lt;a href=&quot;http://mylesbraithwaite.com/linked/2011/11/swapping-a-macbook-for-an-ipadvps/?utm_source=site&amp;utm_medium=feed&amp;utm_campaign=linked.xml" title="Myles Braithwaite - Swapping a MacBook for an iPad+VPS&quot;&gt;#&lt;/a&gt;&lt;/p&gt;
+	</content>
+</entry>
+
+<entry>
+	<title>Apple's Hidden Dropbox Competitor</title>
+	<activity:object-type xmlns="http://activitystrea.ms/spec/1.0/">
+		http://activitystrea.ms/schema/1.0/bookmark
+	</activity:object-type>
+	<link href="http://www.businessinsider.com/icloud-vs-dropbox-2011-11" rel="alternate" />
+	<link href="http://www.businessinsider.com/icloud-vs-dropbox-2011-11" rel="related" />
+	<updated>2011-11-03T09:35:00-04:00</updated>
+	
+	<id>http://mylesbraithwaite.com/linked/2011/11/apples-hidden-dropbox-competitor</id>
+	<category term="Apple"/><category term="iOS"/><category term="iCloud"/><category term="Dropbox"/>
+	<content type="html">
+	    &lt;p&gt;It looks like Apple hide a Dropbox-like folder in iCloud:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If you want to try out the trick yourself, make sure &amp;ldquo;Documents And
+Data&amp;rdquo; is turned on within iCloud settings, then navigate to Library
+inside your Home folder, and then find Mobile Documents.&lt;/p&gt;
+
+  &lt;p&gt;Then, throw some files into the folder. These files should sync to any
+Macs where you&amp;rsquo;re signed in using the same iCloud credentials.&lt;/p&gt;
+
+  &lt;p&gt;Right click to create an &amp;ldquo;alias&amp;rdquo; of the Mobile Documents folder on
+your desktop, and you&amp;rsquo;re good to go.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(via &lt;a href=&quot;http://claytonmorris.com/blog/2011/11/2/apples-dropbox-like-folder-syncs-across-all-devices.html&quot; title=&quot;Apple's Dropbox-link folder syncs across all devices.&quot; rel=&quot;external&quot;&gt;Clayton
+Morris&lt;/a&gt;)&lt;/p&gt;
+
+	    &lt;p&gt;&lt;a href=&quot;http://mylesbraithwaite.com/linked/2011/11/apples-hidden-dropbox-competitor/?utm_source=site&amp;utm_medium=feed&amp;utm_campaign=linked.xml" title="Myles Braithwaite - Apple's Hidden Dropbox Competitor&quot;&gt;#&lt;/a&gt;&lt;/p&gt;
+	</content>
+</entry>
+
+<entry>
+	<title>F.B.I Seizes Web Servers, Knocking  Instapaper and Pinboard Offline</title>
+	<activity:object-type xmlns="http://activitystrea.ms/spec/1.0/">
+		http://activitystrea.ms/schema/1.0/bookmark
+	</activity:object-type>
+	<link href="http://bits.blogs.nytimes.com/2011/06/21/f-b-i-seizes-web-servers-knocking-sites-offline/" rel="alternate" />
+	<link href="http://bits.blogs.nytimes.com/2011/06/21/f-b-i-seizes-web-servers-knocking-sites-offline/" rel="related" />
+	<updated>2011-06-22T13:48:00-04:00</updated>
+	
+	<id>http://mylesbraithwaite.com/linked/2011/06/fbi-seizes-web-servers-knocking-instapaper-and-pinboard-offline</id>
+	<category term="Instapaper"/><category term="Pinboard"/><category term="F.B.I."/>
+	<content type="html">
+	    &lt;blockquote&gt;
+  &lt;p&gt;The F.B.I. seized Web servers in a raid on a data center early Tuesday, causing several Web sites.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+	    &lt;p&gt;&lt;a href=&quot;http://mylesbraithwaite.com/linked/2011/06/fbi-seizes-web-servers-knocking-instapaper-and-pinboard-offline/?utm_source=site&amp;utm_medium=feed&amp;utm_campaign=linked.xml" title="Myles Braithwaite - F.B.I Seizes Web Servers, Knocking  Instapaper and Pinboard Offline&quot;&gt;#&lt;/a&gt;&lt;/p&gt;
+	</content>
+</entry>
+
+<entry>
+	<title>RIM, You're Done Here</title>
+	<activity:object-type xmlns="http://activitystrea.ms/spec/1.0/">
+		http://activitystrea.ms/schema/1.0/bookmark
+	</activity:object-type>
+	<link href="http://www.mobilecrunch.com/2011/06/22/rim-youre-done-here/" rel="alternate" />
+	<link href="http://www.mobilecrunch.com/2011/06/22/rim-youre-done-here/" rel="related" />
+	<updated>2011-06-22T13:40:00-04:00</updated>
+	
+	<id>http://mylesbraithwaite.com/linked/2011/06/rim-youre-done-here</id>
+	<category term="RIM"/><category term="BlackBerry"/>
+	<content type="html">
+	    &lt;blockquote&gt;
+  &lt;p&gt;Research In Motion is done. They’ll be bought in the next year or so, their products will roll into whoever buys them – Microsoft, most probably – and they’ll go the way of Nokia, Danger, and countless other mobile platforms. They’ll exist independently for a while and then be subsumed. It’s over.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+	    &lt;p&gt;&lt;a href=&quot;http://mylesbraithwaite.com/linked/2011/06/rim-youre-done-here/?utm_source=site&amp;utm_medium=feed&amp;utm_campaign=linked.xml" title="Myles Braithwaite - RIM, You're Done Here&quot;&gt;#&lt;/a&gt;&lt;/p&gt;
+	</content>
+</entry>
+
+<entry>
+	<title>So, That's the End of Bitcoin Then</title>
+	<activity:object-type xmlns="http://activitystrea.ms/spec/1.0/">
+		http://activitystrea.ms/schema/1.0/bookmark
+	</activity:object-type>
+	<link href="http://blogs.forbes.com/timworstall/2011/06/20/so-thats-the-end-of-bitcoin-then/" rel="alternate" />
+	<link href="http://blogs.forbes.com/timworstall/2011/06/20/so-thats-the-end-of-bitcoin-then/" rel="related" />
+	<updated>2011-06-20T13:38:00-04:00</updated>
+	
+	<id>http://mylesbraithwaite.com/linked/2011/06/so-thats-the-end-of-bitcoin-then</id>
+	<category term="Bitcoin"/>
+	<content type="html">
+	    &lt;blockquote&gt;
+  &lt;p&gt;No, the doesn’t necessarily mean the end of the Bitcoin experiment, but it’s a pretty good indication of it. For there are certain things that we want from a currency. A medium of exchange, a store of value, we’d also like to it be liquid and security  is important as well. No currency can have all of these features (and humans have used some pretty odd things as currency over the centuries, from copper sheets to cowrie shells via butter, salt, gold, silver and even pieces of paper with Dead Presidents on them, surely the final lunacy?) to perfection but a currency which doesn’t have any of them in appreciable quantities isn’t going to last very long.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As I said this morning on Twitter:&lt;/p&gt;
+
+&lt;!-- http://twitter.com/mylesb/status/82806449016799232 --&gt;
+&lt;style type=&quot;text/css&quot;&gt;.bbpBox82806449016799232 {background:url(http://a1.twimg.com/images/themes/theme13/bg.gif) #B2DFDA;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block}&lt;/style&gt;
+&lt;div class=&quot;bbpBox82806449016799232&quot;&gt;&lt;p class=&quot;bbpTweet&quot;&gt;Don't worry Bitcoin will bounce back. It's based on the drug trade now. So as long as there is a &quot;war on drugs&quot; it will be successful.&lt;span class=&quot;timestamp&quot;&gt;&lt;a title=&quot;Mon Jun 20 13:46:10 +0000 2011&quot; href=&quot;http://twitter.com/mylesb/status/82806449016799232&quot;&gt;less than a minute ago&lt;/a&gt; via &lt;a href=&quot;http://twitterrific.com&quot; rel=&quot;nofollow&quot;&gt;Twitterrific for Mac&lt;/a&gt; &lt;a href=&quot;http://twitter.com/intent/favorite?tweet_id=82806449016799232&quot;&gt;&lt;img src=&quot;http://si0.twimg.com/images/dev/cms/intents/icons/favorite.png&quot; /&gt; Favorite&lt;/a&gt; &lt;a href=&quot;http://twitter.com/intent/retweet?tweet_id=82806449016799232&quot;&gt;&lt;img src=&quot;http://si0.twimg.com/images/dev/cms/intents/icons/retweet.png&quot; /&gt; Retweet&lt;/a&gt; &lt;a href=&quot;http://twitter.com/intent/tweet?in_reply_to=82806449016799232&quot;&gt;&lt;img src=&quot;http://si0.twimg.com/images/dev/cms/intents/icons/reply.png&quot; /&gt; Reply&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;metadata&quot;&gt;&lt;span class=&quot;author&quot;&gt;&lt;a href=&quot;http://twitter.com/mylesb&quot;&gt;&lt;img src=&quot;http://a0.twimg.com/profile_images/1277106005/eightbit-3e8591f6-7e6c-44c0-9ee2-b7eecd5e293f_normal.png&quot; /&gt;&lt;/a&gt;&lt;strong&gt;&lt;a href=&quot;http://twitter.com/mylesb&quot;&gt;Myles Braithwaite&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;mylesb&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;&lt;!-- end of tweet --&gt;&lt;/p&gt;
+
+	    &lt;p&gt;&lt;a href=&quot;http://mylesbraithwaite.com/linked/2011/06/so-thats-the-end-of-bitcoin-then/?utm_source=site&amp;utm_medium=feed&amp;utm_campaign=linked.xml" title="Myles Braithwaite - So, That's the End of Bitcoin Then&quot;&gt;#&lt;/a&gt;&lt;/p&gt;
+	</content>
+</entry>
+
+<entry>
+	<title>29 Ways to Stay Creative</title>
+	<activity:object-type xmlns="http://activitystrea.ms/spec/1.0/">
+		http://activitystrea.ms/schema/1.0/bookmark
+	</activity:object-type>
+	<link href="http://vimeo.com/24302498" rel="alternate" />
+	<link href="http://vimeo.com/24302498" rel="related" />
+	<updated>2011-06-20T10:27:00-04:00</updated>
+	
+	<id>http://mylesbraithwaite.com/linked/2011/06/29-ways-to-stay-creative</id>
+	<category term="Crative"/><category term="Motion Graphic"/>
+	<content type="html">
+	    &lt;iframe src=&quot;http://player.vimeo.com/video/24302498?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+	    &lt;p&gt;&lt;a href=&quot;http://mylesbraithwaite.com/linked/2011/06/29-ways-to-stay-creative/?utm_source=site&amp;utm_medium=feed&amp;utm_campaign=linked.xml" title="Myles Braithwaite - 29 Ways to Stay Creative&quot;&gt;#&lt;/a&gt;&lt;/p&gt;
+	</content>
+</entry>
+
+</feed>
